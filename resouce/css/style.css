@@ -1,7 +1,16 @@
 body{
-    background : aqua;
+    background:black;
 }
-h1{
-  text-align: center;
-  color:brown;
+#ph{
+   /* border: 2px solid red;*/ 
+    margin-top: 10%;
+    display: inline-block;
+    margin-left: 40%;
+    padding: opx;
+}
+#ph video {
+    width: 350px;
+    height: 500px;
+    
+
 }
